@@ -84,9 +84,12 @@ Você está no supermercado e tem apenas 20 reais e decide dividir igualmente o 
 ### :page_with_curl: :computer: :link:
 link git aqui...
 
-Meus agradecimentos à 
+Meus agradecimentos aos experts que disponibilizaram um bom conteúdo na DIO
+- Juliana Mascarenhas, [Pensamento Computacional](learning/050675c1-8a7f-476b-a778-9b1c7eb75744?back=/track/cognizant-cloud-data-engineer-2&tab=un)
+- Venilton FalvoJr, [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://web.dio.me/project/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c?back=/track/cognizant-cloud-data-engineer-2&tab=undefined&moduleId=undefined)
+- Renata Ribeiro, [Princípios de Pensamento Computacional com Python](https://web.dio.me/course/principios-de-pensamento-computacional-com-python/learning/b1f54af3-02b7-4d87-8896-6d54f3317b97?back=/track/cognizant-cloud-data-engineer-2&tab=undefined&moduleId=undefined)
 
-# Referencias
+# Referências
 
 [Apresentação de Slides do Curso](https://docs.google.com/presentation/d/1l-nKxIeUMLg26xthH27g5OAiaWz7r5Zs/edit#slide=id.geb91ac412f_0_14)
 
